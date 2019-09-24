@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-component-simpsons-quotes/static/css/main.3f81fcc1.chunk.css",
+    "main.js": "/react-component-simpsons-quotes/static/js/main.03b3e7ca.chunk.js",
+    "main.js.map": "/react-component-simpsons-quotes/static/js/main.03b3e7ca.chunk.js.map",
+    "runtime~main.js": "/react-component-simpsons-quotes/static/js/runtime~main.43db8647.js",
+    "runtime~main.js.map": "/react-component-simpsons-quotes/static/js/runtime~main.43db8647.js.map",
+    "static/js/2.9918f956.chunk.js": "/react-component-simpsons-quotes/static/js/2.9918f956.chunk.js",
+    "static/js/2.9918f956.chunk.js.map": "/react-component-simpsons-quotes/static/js/2.9918f956.chunk.js.map",
+    "index.html": "/react-component-simpsons-quotes/index.html",
+    "precache-manifest.f54cf82b446b2b60d8de6085c4e07473.js": "/react-component-simpsons-quotes/precache-manifest.f54cf82b446b2b60d8de6085c4e07473.js",
+    "service-worker.js": "/react-component-simpsons-quotes/service-worker.js",
+    "static/css/main.3f81fcc1.chunk.css.map": "/react-component-simpsons-quotes/static/css/main.3f81fcc1.chunk.css.map"
+  }
+}
